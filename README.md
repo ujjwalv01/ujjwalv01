@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/ujjwal_v01" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwal_v01?logo=twitter&style=for-the-badge" alt="ujjwal_v01" /></a> </p>
 
 - 🔭 I’m currently working on **AI-powered tools and full-stack web architectures.**
-- 🌱 I’m currently learning **Advanced system design and exploring the depths of AI integration.**
 - 👯 I’m looking to collaborate on **Open-source AI tools and scalable Full-Stack SaaS applications.**
 - 👨‍💻 All of my projects are available at [https://portfolioxujjwxl.vercel.app/](https://portfolioxujjwxl.vercel.app/)
 - 💬 Ask me about **C++, React, DSA, or why I love dark-themed UIs.**
