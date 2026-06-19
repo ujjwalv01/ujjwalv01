@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **AI-powered tools and full-stack web architectures.**
 - 👯 I’m looking to collaborate on **Open-source AI tools and scalable Full-Stack SaaS applications.**
 - 👨‍💻 All of my projects are available at [devujjwal.vercel.app](https://devujjwal.vercel.app/)
-- 💬 Ask me about **C++, React, DSA, or why I love dark-themed UIs.**
+- 💬 Ask me about **C++, Next.js, TypeScript, React, DSA, or why I love dark-themed UIs.**
 - 📫 How to reach me **ujjwalverma010305@gmail.com**
 
 ## 🌐 Socials:
