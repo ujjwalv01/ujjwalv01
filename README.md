@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on **open-source AI tools and scalable full-stack SaaS apps**
 - 👨‍💻 All projects live at [devujjwal.vercel.app](https://devujjwal.vercel.app/)
 - 🏆 Codeforces Specialist · 1421 rating · 300+ problems solved
-- 💬 Ask me about **C++, Next.js, TypeScript, React, DSA — or why I love dark-themed UIs**
+- 💬 Ask me about **C++, Next.js, TypeScript, React, DSA - or why I love dark-themed UIs**
 - 📫 Reach me at **ujjwalverma010305@gmail.com**
 
 <details>
