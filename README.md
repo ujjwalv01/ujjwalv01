@@ -70,7 +70,7 @@ Idea → structured prompt, instantly
 </td>
 <td width="50%">
 
-**🎙️ Intervu**
+**🎙️ [Intervu](https://interv-u-ten.vercel.app/)**
 AI voice mock-interview platform · JWT auth
 `Next.js` `Express` `PostgreSQL` `Vapi` `Groq`
 
@@ -79,7 +79,7 @@ AI voice mock-interview platform · JWT auth
 <tr>
 <td width="50%">
 
-**🏥 Link Medical Spaces**
+**🏥 [LinkMedicalSpaces](https://lmsdeply.vercel.app/)**
 Full-stack rebuild for a medical spa client
 `Next.js` `PostgreSQL` `Stripe` `Cloudinary`
 
