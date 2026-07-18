@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18"/>
 
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalv01&label=Profile%20views&color=0e75b9&style=for-the-badge" alt="ujjwalv01" /> </a>
 <a href="https://twitter.com/ujjwal_v01"><img src="https://img.shields.io/twitter/follow/ujjwal_v01?logo=twitter&style=for-the-badge&color=1DA1F2"/></a>
 <a href="https://linkedin.com/in/ujjwal-verma-cse"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ujjwalverma010305@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,10 +15,10 @@
 
 <div align="center">
 
-| 🥋 Codeforces | 🚀 Projects Shipped | 🧩 DSA Grind |
-|:---:|:---:|:---:|
-| **Specialist · 1421** | **4+ live full-stack apps** | **300+ problems solved** |
-| 300+ problems solved | Solo-built, deployed & maintained | NeetCode 150 · Striver A2Z |
+| 🥋 Codeforces | 🧑🏻‍🍳 Codechef | 🚀 Projects Shipped | 🧩 DSA Grind |
+|:---:|:---:|:---:|:---:|
+| **Specialist** | **2⭐ Rated** | **6+ live full-stack apps** | **300+ problems solved** |
+|   Peak : 1421 | Max : 1505 | Solo-built, deployed & maintained | NeetCode 150 · Striver A2Z |
 
 </div>
 
