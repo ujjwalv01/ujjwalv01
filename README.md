@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ujjwalv01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/> <a href="https://linkedin.com/in/ujjwal-verma-cse"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/ujjwal_v01"><img src="https://img.shields.io/badge/X-@ujjwal__v01-black?style=flat-square&logo=x&logoColor=white"/></a> <a href="mailto:ujjwalverma010305@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://komarev.com" align="left"><img src="https://komarev.com/ghpvc/?username=ujjwalv01&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="ujjwalv01" /></a> <a href="https://linkedin.com/in/ujjwal-verma-cse"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600"/></a> <a href="https://twitter.com/ujjwal_v01"><img src="https://img.shields.io/badge/Twitter-Follow-000000?logo=twitter&style=for-the-badge&logoColor=white&cacheSeconds=3600"/></a>
+
+</div>
 
 <br>
 
