@@ -10,10 +10,12 @@
 ## 🏆 Achievements at a Glance
 <div align="center">
 
+
 | 🥋 [Codeforces](https://codeforces.com/profile/ujjwxl.exe) | 🧑🏻‍🍳 [Codechef](https://www.codechef.com/users/ujjwal_exe) | 🚀 [Projects Shipped](https://www.devujjwal.tech/) | 🧩 [DSA @GFG](https://www.geeksforgeeks.org/profile/ujjwxl?tab=activity) |
 |:---:|:---:|:---:|:---:|
 | **Specialist** | **2⭐ Rated** | **6+ live full-stack apps** | **300+ problems solved** |
 |   Peak : 1421 | Max : 1505 | Solo-built, deployed & maintained | NeetCode 150 · Striver A2Z |
+
 
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=ujjwalv01&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
