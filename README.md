@@ -177,7 +177,7 @@ Turns a one-line idea into a clean, reusable prompt. Groq keeps the response fas
 <td width="50%" valign="top">
 
 ### 🏥 LinkMedicalSpaces
-Full-stack rebuild for a medical spa client
+Full-stack rebuild for a medical space client
 
 <a href="https://lmsdeply.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
 
