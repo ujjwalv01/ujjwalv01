@@ -46,14 +46,14 @@
 
 | | |
 |:--|:--|
-| 🎓 **Education** | CS undergrad @ PSIT Kanpur · Class of 2028 |
-| 🧑‍💻 **Experience** | Full Stack Developer Intern @ MediaTree Excellence Group (May – Jul 2026) |
-| 🚀 **Proof of work** | 6+ live full-stack apps — solo-built, deployed and maintained |
+| 🎓 **Education** | CS undergrad @PSIT Kanpur · Class of 2028 |
+| 🧑‍💻 **Experience** | Full Stack Developer Intern @MediaTree Excellence Group (May – Jul 2026) |
+| 🧑‍💻 **Open Source** | Contributor & Reviewer <a href="https://github.com/stdlib-js/stdlib">@stdlib</a> (Jun 2026 - Present) |
+| 🚀 **Proof of work** | 6+ live full-stack apps - solo-built, deployed and maintained |
 | 🧠 **Problem solving** | Codeforces Specialist (peak 1421) · CodeChef 2⭐ (max 1505) · 300+ DSA problems |
-| 👥 **Leadership** | Vice President, college Coding Club |
 
 **If you only have 2 minutes, open these three:**
-[RivalScan AI](https://tryrivalscan.vercel.app) → [RepWise](https://trainwithrepwise.vercel.app) → [Intervu](https://interv-u-ten.vercel.app/)
+[LinkMedicalSpaces](https://lmsdeply.vercel.app) → [RepWise](https://trainwithrepwise.vercel.app) → [Intervu](https://interv-u-ten.vercel.app/)
 
 <a href="https://www.devujjwal.tech/"><img src="https://img.shields.io/badge/See%20all%20projects-58A6FF?style=flat-square" alt="All projects"/></a>
 <a href="mailto:ujjwalverma010305@gmail.com?subject=Opportunity%20for%20Ujjwal"><img src="https://img.shields.io/badge/Email%20me%20directly-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
