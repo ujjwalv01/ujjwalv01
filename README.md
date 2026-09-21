@@ -1,10 +1,3 @@
-<!--
-  SETUP NOTES (delete this comment once done)
-  1. Snake: add snake.yml to .github/workflows/ and run it once from the Actions tab.
-  2. Stats cards: the public github-readme-stats instance is often rate-limited or paused.
-     Deploy your own copy on Vercel and replace "github-readme-stats.vercel.app" below with your URL.
-  3. Issue buttons: make sure Issues are enabled on the ujjwalv01/ujjwalv01 repo (Settings → Features).
--->
 
 <div align="center">
 
