@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=210&section=header&text=Ujjwal%20Verma&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" alt="Ujjwal Verma"/>
