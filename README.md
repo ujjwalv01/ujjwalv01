@@ -43,7 +43,7 @@
 | 🧠 **Problem solving** | Codeforces Specialist (peak 1421) · CodeChef 2⭐ (max 1505) · 300+ DSA problems |
 
 **If you only have 2 minutes, open these three:**
-[LinkMedicalSpaces](https://lmsdeply.vercel.app) → [RepWise](https://trainwithrepwise.vercel.app) → [Intervu](https://interv-u-ten.vercel.app/)
+[LinkMedicalSpaces](https://lmsdeply.vercel.app) → [RepWise](https://trainwithrepwise.vercel.app) → [Intervu](https://intervyou-ai.vercel.app/)
 
 <a href="https://www.devujjwal.tech/"><img src="https://img.shields.io/badge/See%20all%20projects-58A6FF?style=flat-square" alt="All projects"/></a>
 <a href="mailto:ujjwalverma010305@gmail.com?subject=Opportunity%20for%20Ujjwal"><img src="https://img.shields.io/badge/Email%20me%20directly-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -131,7 +131,7 @@ MediaPipe pose detection counts reps and checks form in the browser, Three.js dr
 ### 🎙️ Intervu
 AI voice mock-interview platform
 
-<a href="https://interv-u-ten.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+<a href="https://intervyou-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
 
 <details>
 <summary>What's inside</summary>
@@ -210,7 +210,7 @@ Every build with live links, stack breakdowns and the story behind each one.
 | 🥋 [Codeforces](https://codeforces.com/profile/ujjwxl.exe) | 🧑🏻‍🍳 [CodeChef](https://www.codechef.com/users/ujjwal_exe) | 🧩 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ujjwxl?tab=activity) |
 |:---:|:---:|:---:|
 | **Specialist** | **2⭐ Rated** | **300+ solved** |
-| Peak 1421 | Max 1505 | NeetCode 150 · Striver A2Z |
+| Peak 1450 | Max 1556 | NeetCode 150 · Striver A2Z |
 
 <br/>
 
