@@ -128,7 +128,7 @@ MediaPipe pose detection counts reps and checks form in the browser, Three.js dr
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Intervu
+### 🎙️ IntervYou
 AI voice mock-interview platform
 
 <a href="https://intervyou-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
