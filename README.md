@@ -224,40 +224,63 @@ Every build with live links, stack breakdowns and the story behind each one.
 
 <br/>
 
-## Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**What I reach for every day**
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,postgres,prisma,cpp,git,vercel&perline=11" alt="Core stack"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
-<img src="https://img.shields.io/badge/Vapi-5DFECA?style=flat-square&logoColor=black" alt="Vapi"/>
-<img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=flat-square" alt="Firecrawl"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=ts,js,cpp,c,py,java" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases & ORM</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql,firebase" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & Tools</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,vercel,aws,gcp,netlify" alt="Cloud and tools"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>ML & CV</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,opencv" alt="ML and CV"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & Integrations</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+      <img src="https://img.shields.io/badge/Vapi-5DFECA?style=for-the-badge" alt="Vapi"/>
+      <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge" alt="Firecrawl"/>
+      <br/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌱 Learning</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=go,docker,kubernetes,terraform" alt="Currently learning"/></td>
+  </tr>
+</table>
 
 </div>
-
-<details>
-<summary><b>🧰 &nbsp;Also worked with</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs,mongodb,mysql,firebase,py,fastapi,django,java,c,aws,gcp,netlify,pytorch,opencv&perline=9" alt="Other tools"/>
-</div>
-
-<br/>
-
-Plus NumPy, Pandas, Framer Motion and Cloudinary.
-
-</details>
-
-<br/>
 
 ## GitHub Activity
 
@@ -271,7 +294,6 @@ Plus NumPy, Pandas, Framer Motion and Cloudinary.
 
 </div>
 
-<details>
 <summary><b>📊 &nbsp;Stats and top languages</b></summary>
 <br/>
 
@@ -290,20 +312,8 @@ Plus NumPy, Pandas, Framer Motion and Cloudinary.
 
 </div>
 
-</details>
 
-<details>
-<summary><b>📈 &nbsp;Contribution graph</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalv01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-</div>
-
-</details>
-
-<details>
-<summary><b>🐍 &nbsp;Watch a snake eat my commits</b></summary>
+<summary><b>Watch a snake eat my commits</b></summary>
 <br/>
 
 <div align="center">
@@ -314,7 +324,6 @@ Plus NumPy, Pandas, Framer Motion and Cloudinary.
 </picture>
 </div>
 
-</details>
 
 <br/>
 
